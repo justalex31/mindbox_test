@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibr", "SquareLibr\SquareLibr.csproj", "{029B65F9-A070-4423-81FB-0D1D84D2760E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLib.Test", "SquareLib.Test\SquareLib.Test.csproj", "{21762484-1271-4A9D-8EC0-480D0DCF48C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4059FCA-01E1-43CC-9C38-B582F911A664}"
+	ProjectSection(SolutionItems) = preProject
+		test_task.sql = test_task.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029B65F9-A070-4423-81FB-0D1D84D2760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029B65F9-A070-4423-81FB-0D1D84D2760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029B65F9-A070-4423-81FB-0D1D84D2760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029B65F9-A070-4423-81FB-0D1D84D2760E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21762484-1271-4A9D-8EC0-480D0DCF48C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21762484-1271-4A9D-8EC0-480D0DCF48C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21762484-1271-4A9D-8EC0-480D0DCF48C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21762484-1271-4A9D-8EC0-480D0DCF48C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37831837-D756-4F81-94FB-1BF242442CA6}
+	EndGlobalSection
+EndGlobal
